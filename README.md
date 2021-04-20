@@ -1,6 +1,6 @@
 # icbu-to-sqlite
 
-Run full SQL queries on your calendar!
+> Run full SQL queries on your calendar!
 
 This repo contains a small script to pipe your Apple Calendar data into an SQLite database.
 
